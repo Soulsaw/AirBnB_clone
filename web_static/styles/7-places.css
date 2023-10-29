@@ -1,0 +1,30 @@
+/* 
+======================================================
+Places styles
+======================================================
+*/
+.places
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.places h1{
+    text-align: start;
+    font-size: 30px;
+    width: 100%;
+}
+.places article{
+    float: left;
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+}
+.places article h2{
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+}

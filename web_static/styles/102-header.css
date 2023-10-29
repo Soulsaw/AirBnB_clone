@@ -1,0 +1,19 @@
+/*
+=============================
+Header style
+============================= 
+*/
+header{
+    background: url("../images/icon.png");
+    height: 70px;
+    width: 100%;
+    background-position: 20px 40%;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #CCCCCC;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
